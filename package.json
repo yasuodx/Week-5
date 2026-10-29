@@ -1,0 +1,14 @@
+{
+  "name": "restapi-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express and MongoDB REST API lab",
+  "main": "RestAPILabtutorial.js",
+  "scripts": {
+    "start": "node RestAPILabtutorial.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
